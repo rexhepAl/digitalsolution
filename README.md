@@ -1,2 +1,2 @@
 # digitalsolution
-This is my first project, but yet is not completed. 
+This is my first project in HTMP, CSS ad Javascript, but yet is not completed. 
