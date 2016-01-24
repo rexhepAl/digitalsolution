@@ -1,2 +1,2 @@
 # digitalsolution
-This is my first project in HTML, CSS ad Javascript, but yet is not completed. 
+This is my first project that I release i Github, with HTML, CSS and Javascript, but yet is not completed. 
